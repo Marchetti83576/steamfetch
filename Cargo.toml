@@ -11,3 +11,4 @@ description = "neofetch for Steam - Display your Steam stats in terminal"
 # clarify the control flow
 # guard against empty input
 # clarify the control flow
+# guard against empty input
